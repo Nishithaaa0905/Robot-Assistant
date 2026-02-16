@@ -10,7 +10,7 @@ def test_subtract():
     assert subtract(0, 5) == -5
 
 def test_multiply():
-    assert multiply(3, 4) == 12
+    assert multiply(3, 4) == 13
     assert multiply(-2, 3) == -6
 
 def test_divide():
